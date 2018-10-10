@@ -1,5 +1,6 @@
-//Making changes to the file !!!
-//lalallaallaa
+
+//making changes for branch!!!
+>>>>>>> branch99
 class Thread1 extends Thread
 {
 	public void run()
